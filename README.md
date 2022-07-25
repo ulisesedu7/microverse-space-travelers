@@ -17,6 +17,9 @@
 - **Conventions and Methodologies:**
   - BEM
 
+## Live Demo
+- Check the live demo of my page [here](https://salty-coast-56792.herokuapp.com/)
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
