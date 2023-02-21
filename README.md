@@ -18,7 +18,7 @@
   - BEM
 
 ## Live Demo
-- Check the live demo of my page [here](https://salty-coast-56792.herokuapp.com/)
+- Check the live demo of my page [here](https://ulises-space-travelers.netlify.app/)
 
 ## Getting Started
 
