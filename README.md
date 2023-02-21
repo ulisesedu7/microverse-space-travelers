@@ -17,6 +17,9 @@
 - **Conventions and Methodologies:**
   - BEM
 
+## Live Demo
+- Check the live demo of my page [here](https://ulises-space-travelers.netlify.app/)
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
@@ -47,6 +50,11 @@ $ npm start
 ```
 
 ## Authors
+
+👤 **Ulises Largaespada**
+
+- GitHub: [@ulisesedu7](https://github.com/ulisesedu7)
+- LinkedIn: [Ulises Largaespada](https://www.linkedin.com/in/ulises-largaespada/)
 
 👤 **Gabriel Santo**
 
