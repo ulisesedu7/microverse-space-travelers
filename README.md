@@ -51,6 +51,11 @@ $ npm start
 
 ## Authors
 
+👤 **Ulises Largaespada**
+
+- GitHub: [@ulisesedu7](https://github.com/ulisesedu7)
+- LinkedIn: [Ulises Largaespada](https://www.linkedin.com/in/ulises-largaespada/)
+
 👤 **Gabriel Santo**
 
 - GitHub: [@gvgesanto2](https://github.com/gvgesanto2)
